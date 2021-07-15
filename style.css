@@ -133,48 +133,48 @@ main{
 
 @media (max-width: 375px){
     main{
-        background-position:111% 233%, -28% -87%;
+        background-position:135% 290%, -38% -157%;
     }
 }
 
 @media (min-width: 376px) and (max-width: 415px){
     main{
-        background-position: 123% 211%, -30% -78%;
+        background-position: 137% 294%, -32% -176%;
     }
 }
 
 @media(min-width: 416px) and (max-width: 500px){
     main{
-        background-position:120% 233%, -36% -81%;
+        background-position:136% 233%, -36% -201%;
     }
 }
 
 @media(min-width: 501px) and (max-width: 600px){
     main{
-        background-position:130% 237%, -56% -81%;
+        background-position:159% 237%, -56% -195%;
     }
 }
 
 @media(min-width: 601px) and (max-width: 635px){
     main{
-        background-position:176% 209%, -74% -98%;
+        background-position:183% 209%, -74% -231%;
     }
 }
 
 @media(min-width: 636px) and (max-width: 700px){
     main{
-        background-position:179% 208%, -83% -98%;
+        background-position:197% 208%, -83% -219%;
     }
 }
 
 @media(min-width: 701px) and (max-width: 750px){
     main{
-        background-position:219% 201%, -115% -101%;
+        background-position:218% 201%, -115% -232%;
     }
 }
 
 @media(min-width: 751px) and (max-width:800px){
     main{
-        background-position: 219% 201%, -115% -101%;
+        background-position: 260% 201%, -158% -239%;
     }
 }

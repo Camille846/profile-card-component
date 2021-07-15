@@ -27,7 +27,7 @@ body{
 
 main{
     background: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
-    background-position:-381px -557px, 622px 391px;;
+    background-position:-381px -557px, 622px 391px;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-color: var(--Dark-cyan);
@@ -43,8 +43,7 @@ main{
     border-radius: 20px;
     max-width:400px;
     width: 90%;
-    box-shadow: 1px 1px 10px rgba(0, 0, 0, .1);
-    
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, .1);  
 }
 
 .header{
@@ -130,4 +129,52 @@ main{
     font-size: .9rem;
     padding: 1rem;
     color: var(--Very-dark-desaturated-blue);
+}
+
+@media (max-width: 375px){
+    main{
+        background-position:111% 233%, -28% -87%;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 415px){
+    main{
+        background-position: 123% 211%, -30% -78%;
+    }
+}
+
+@media(min-width: 416px) and (max-width: 500px){
+    main{
+        background-position:120% 233%, -36% -81%;
+    }
+}
+
+@media(min-width: 501px) and (max-width: 600px){
+    main{
+        background-position:130% 237%, -56% -81%;
+    }
+}
+
+@media(min-width: 601px) and (max-width: 635px){
+    main{
+        background-position:176% 209%, -74% -98%;
+    }
+}
+
+@media(min-width: 636px) and (max-width: 700px){
+    main{
+        background-position:179% 208%, -83% -98%;
+    }
+}
+
+@media(min-width: 701px) and (max-width: 750px){
+    main{
+        background-position:219% 201%, -115% -101%;
+    }
+}
+
+@media(min-width: 751px) and (max-width:800px){
+    main{
+        background-position: 219% 201%, -115% -101%;
+    }
 }

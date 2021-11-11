@@ -32,7 +32,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Profile Card Component](https://camille846.github.io/profile-card-component/)
+- Solution URL: [Responsive Profile Card Component](https://www.frontendmentor.io/solutions/responsive-profile-card-component-RpwJ6anHI)
+- Live Site URL: [Profile Card Component](https://camille846.github.io/profile-card-component/)
 
 ## My process
 
@@ -43,7 +44,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Flexbox
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 - Media Queries
